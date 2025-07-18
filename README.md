@@ -93,6 +93,6 @@ python main.py
 * 请确保你的电脑音频设备可用，否则 `playsound` 播报会失败；
 * 显卡需要支持 16GB 显存
 * 若使用 macOS / WSL，请使用替代音频模块
-欢迎 Star / Fork / issue
+* 欢迎 Star / Fork / issue
 
 
